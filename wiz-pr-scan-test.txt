@@ -1,2 +1,3 @@
 Wiz Code pull request scanning test.
 This file contains no credentials or sensitive data.
+Public repository scanning enabled for Wiz lab
